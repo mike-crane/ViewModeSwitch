@@ -19,6 +19,50 @@ body {
   min-width:1000px;
 }
 
+#list-content {
+    display: inline-block;
+}
+
+.list-view {
+    /*float: right;*/
+}
+
+.list-icon {
+    height: 90px;
+    float: left;
+}
+
+.title-list {
+    display: inline-block;
+}
+
+.ul-list {
+    /*float: right;*/
+}
+
+ .imagecaption-list {
+     /*float: right;*/
+ }
+
+.itemCost-list {
+    /*float: right;*/
+}
+
+.itemDescription-list {
+    /*float: right;*/
+}
+
+.addCart-list {
+    /*float: right;*/
+}
+
+.itemTitle-list {
+}
+
+.list-group {
+    /*float: right;*/
+}
+
 .mainFrame, header {
   border-bottom: 4px solid #47a3da;
 }
@@ -86,28 +130,4 @@ li {
   text-decoration: none;
   padding: 12px 20px 12px 20px;
   border-radius: 3px;
-}
-
-/* Toggle View Switch */
-
-/*#mainContent ul { */
-  list-style: none;
-}
-/*#mainContent .buttons { */
-  margin-bottom: ;
-}
-
-/*#mainContent .list li { */
-  width: ;
-  border-bottom: ;
-  margin-bottom: ;
-  padding-bottom: ;
-}
-
-/*#mainContent .grid li { float: left; */
-  width: ;
-  height: ;
-  border-right: ;
-  border-bottom: ;
-  padding: ;
 }
